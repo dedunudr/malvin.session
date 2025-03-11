@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🏮 || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+🏮 || Creator = 𖥘⚡ 𝓓.𝓡𝓤𝓚𝓢𝓗𝓐𝓝 𝓞𝓛𝓓 𝓚𝓘𝓝 ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🏮 || IMG URL = https://i.ibb.co/pBzQ8C8c/85c386b2f75a0894.jpg
 🏮 || 2025 & 2099 COMING TO MY RED SAMURAY BOT 10.V👋
