@@ -57,22 +57,25 @@ router.get('/', async (req, res) => {
 
                let MALVIN_KING_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ᴍᴀʟᴠɪɴ-ᴍᴅ SESSION IS 
-┃SUCCESSFULLY
+┃RED SAMURAY ALL SESSION IS 📥
+┃SUCCESSFULLYB 🐉
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+🏮 || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+🏮 || IMG URL = https://i.ibb.co/pBzQ8C8c/85c386b2f75a0894.jpg
+🏮 || 2025 & 2099 COMING TO MY RED SAMURAY BOT 10.V👋
+🏮 || WEBSITE COMING ZOON⛩️
+🏮 || ENJOY OLD LEGENDARY TEM BOT🚀
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
+🏮 || Telegram = https://t.me/legionofdoom999
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Bot Repo = https://github.com/kingmalvn/LORD-MD 
+🏮 || 𝚆𝙰 𝙲𝙷𝙴𝙽𝙽𝙰𝙻 = https://whatsapp.com/channel/0029Vb0pFMeGOj9r28xCQJ0w
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@malvintech2 
+🏮 || 𝚆𝙰 𝙶𝚁𝙾𝚄𝙿 = https://chat.whatsapp.com/JKS3WWDAxht9aYsZJ4jX9I 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
+ ⛩️ ©2024-2099 𝚁𝙴𝙳 𝚂𝙰𝙼𝚄𝚁𝙰𝚈 𝙾𝙻𝙳⛩️`
  await Pair_Code_By_Malvin_King.sendMessage(Pair_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
  
 
